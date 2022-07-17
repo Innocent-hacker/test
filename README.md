@@ -1,2 +1,2 @@
 # test
-test repository for commands demonstration
+test repository for commands demonstration.
